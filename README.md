@@ -4,7 +4,7 @@ Developed by: Pelleti sindhu sri
 RegisterNumber: 212224240113
 
 
-# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+# SERIAL IN SERIAL OUT SHIFTREGISTER
 
 **AIM:**
 
